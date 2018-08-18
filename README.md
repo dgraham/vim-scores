@@ -16,7 +16,9 @@ $ git clone https://github.com/dgraham/scores
 $ cd scores
 $ cargo build --release
 $ cp target/release/scores /usr/local/bin
+```
 
+```
 # Install the vim plugin
 $ git clone https://github.com/dgraham/vim-scores ~/.vim/pack/plugins/start/vim-scores
 ```
